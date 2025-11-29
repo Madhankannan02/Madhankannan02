@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Madhan an UI/UX Designer and a Front-end Developer!
 
-<img align="right" width="600" alt="Image" src="https://github.com/user-attachments/assets/bbef626c-6c30-4c67-af62-e8a4b27791d9" />
+<img align="right" width="350" alt="Image" src="https://github.com/user-attachments/assets/bbef626c-6c30-4c67-af62-e8a4b27791d9" />
 
 - 🌱 Currently Improving Skills<br>I’m actively enhancing my front-end development skills while exploring modern UI/UX and emerging design trends.<br><br>
 - 🤝 Looking to Collaborate<br>Open to collaborating on web design and front-end development projects.<br><br>
